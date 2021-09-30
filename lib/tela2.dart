@@ -31,6 +31,7 @@ class Tela2State extends State<Tela2> {
                 size: 80,
                 color: Colors.green,
               ),
+              
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
